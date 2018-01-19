@@ -1,0 +1,28 @@
+a {
+    cursor: pointer;
+    color: #fff;
+}
+
+span {
+    display: inline-block;
+    height: 15px;
+    padding: 10px;
+    margin: 10px 5px 10px 0;
+    background: #000;
+    color: silver;
+    text-align: center;
+    line-height: 15px;
+}
+button {
+    background-color: #000;
+    color: white;
+    width: 60px;
+    height: 27px;
+    border: 0 ;
+}
+input{
+    width: 500px;
+    border: solid black 1px;
+    height: 25px;
+    margin: 5px 5px 5px 0;
+}
